@@ -56,6 +56,13 @@ li{
 .name{
 	font-weight: 200;
 	font-size: 35px;
+	text-align: center;
+}
+.error-img{
+	height: 200px;
+	margin-top:15px;
+	margin-left: 200px;
+	border-radius: 60%;
 }
 .arrow{
 	font-size: 80px;
@@ -81,4 +88,54 @@ li{
 	display: flex;
 	align-items: center;
 	flex-direction: column;
+}
+.container{
+	margin-top: 40px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.footer{
+	font-size: 20px;
+	font-weight: 300;
+}
+@media (max-width: 480px){
+	.box{
+		margin-top: 25px;
+	}
+	.main{
+		display: flex;
+		flex-direction: column;
+	}
+	.output{
+		height: 400px;
+		width: 300px;
+		margin-right: 300px;
+		margin-top: 12px;
+		margin-bottom: 3px;
+	}
+	.parent{
+		display: flex;
+		flex-direction: column;
+	}
+	.profile-img{
+		height: 150px;
+		margin-right:10px;
+		border-radius: 60%;
+
+	}
+	.square{
+		height: 50px;
+	    width: 100px;
+	}
+	.container{
+		margin-top: 5px;
+	}
+	.error-img{
+		height: 200px;
+		margin-top:15px;
+		margin-left: 50px;
+		border-radius: 60%;
+}
+
 }
