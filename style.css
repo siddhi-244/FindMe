@@ -145,14 +145,14 @@ li{
 	    margin-bottom: 4px;
 	    background-color: brown;
 	}
-	.container{
-		margin-top: 35px;
-	}
 	.error-img{
 		height: 200px;
 		margin-top:15px;
 		margin-left: 50px;
 		border-radius: 60%;
-}
+	}
+	.container{
+		margin-top: 80px;
+	}
 
 }
