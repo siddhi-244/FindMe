@@ -13,5 +13,14 @@
       7. Link to his github profile. 
 - All the cases are handled (for eg. User doesn't exists, no input given, no name and bio).
 - Used Github api for it. 
+- It is completely responsive.
+
+
+## Tech Stack 
+- Html
+- CSS
+- JavaScript 
+
+## Demo
 
 
